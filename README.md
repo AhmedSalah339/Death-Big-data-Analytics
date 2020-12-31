@@ -16,24 +16,44 @@ This repo analyses the data coming from Kaggle's Death in the United States data
 In this section we get the relation between multiple attributes of the dataset along with others. The list of of the search analytics are as follows :
 
 * The relation between education and cause of death.
-* The relation between work and death. (don't know if it will work)
-* sports and cause of death.
+
+  * The relation between work and death. (don't know if it will work)
+  * sports and cause of death.
+  * How does education affect lifespan?
+  * How does education affect  cause of death?
+
 * The most frequent causes of death generally.
 
-* The most frequent causes of death for each race.
-* The day and month that most people died in.
-* The causes of death for each year.
-* Gun vs Vehicle Deaths.
-* How does education affect lifespan?
-* Terrorism Vs other causes of death.
-* Age and Cause of Death.
-* The most dangerous causes of death for each season.
-* residency and place of deaths (and other analytics)
+  * The most frequent causes of death for each race.
+  * and for each gender 
+  * and for each age group
+
+* time series analysis
+
+  * The day and month that most people died in.
+  * The causes of death for each year.
+  * The most dangerous causes of death for each season (important events).
+  * Trend fitting (Machine learning)
+
+* Violence and death
+
+  * Gun vs Vehicle Deaths.
+  * Guns and race.
+  * Terrorism Vs other causes of death.
+
+  
+
 * suicide correlation of age, and years, education.
+
+  
+
 * Comparative analysis between men and women in attributes.
-* Time series of all requirements.
-* Trend fitting
-* Marital status and life expectancy.
-* Race - age record - place of death.
-* cardio vascular disease for men and women : it's a medical fact that men usually die out of kardio vascular disease more than women so let's test it. 
+
+  
+
+  (non important)
+
+  * Race - age record - place of death.
+  * Cardiovascular disease for men and women : it's a medical fact that men usually die out of cardiovascular disease more than women so let's test it. 
+  * Heart disease analysis
 
