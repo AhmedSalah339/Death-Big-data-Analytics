@@ -37,10 +37,10 @@ In this section we get the relation between multiple attributes of the dataset a
 
 * Violence and death (Ahmed)
 
-  * Gun vs Vehicle Deaths.
+  * Gun vs Vehicle Deaths. (done)
   * Guns and race. (done)
-  * Terrorism Vs other causes of death.
-  * suicide correlation of age, and years, education.
+  * Homicide Vs other causes of death. 
+  * suicide correlation of age and education. (done)
 
   
 
