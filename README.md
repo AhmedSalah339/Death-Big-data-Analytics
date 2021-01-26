@@ -1,8 +1,6 @@
 # Death-Big-data-Analytics 
 This repo analyses the data coming from Kaggle's Death in the United States dataset
 
-[TOC]
-
 # Data description 
 
 * The data contains the log file of deaths in the united states from the year 2005 till the year 2015. It has a long list of attributes that can be analyses and related to each other like race , year of death, education, gender, cause of death , education level and so on.
@@ -24,16 +22,15 @@ In this section we get the relation between multiple attributes of the dataset a
 
 * The most frequent causes of death generally. (Moustafa)
 
-  * The most frequent causes of death for each race.
-  * and for each gender 
-  * and for each age group
+  * The most frequent causes of death for each race.(done)
+  * and for each gender (done)
+  * The day and month that most people died in.(done)
 
 * time series analysis (Khalid)
 
-  * The day and month that most people died in.
-  * The causes of death for each year.
-  * The most dangerous causes of death for each season (important events).
-  * Trend fitting (Machine learning)
+  * The causes of death for each year.(done)
+  * The most dangerous causes of death for each season .(done)
+  * Trend fitting (Machine learning) (done)
 
 * Violence and death (Ahmed)
 
