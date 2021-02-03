@@ -19,8 +19,8 @@ In this section we get the relation between multiple attributes of the dataset a
   * sports and cause of death.
   * How does education affect lifespan?
   * How does education affect  cause of death?
-  * Business report.
-
+  
+* Business report. (Each did his part)
 * The most frequent causes of death generally. (Moustafa)
 
   * The most frequent causes of death for each race.(done)
